@@ -9,7 +9,7 @@
 
 - 更新及安装组件
 
-  apt update && apt upgrade
+  apt update && apt upgrade -y
 
   apt update && apt install curl wget -y
 
